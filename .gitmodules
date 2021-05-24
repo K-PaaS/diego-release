@@ -472,3 +472,7 @@
 [submodule "src/github.com/cncf/udpa"]
 	path = src/github.com/cncf/udpa
 	url = https://github.com/cncf/udpa
+[submodule "src/code.cloudfoundry.org/rep"]
+	path = src/code.cloudfoundry.org/rep
+	url = https://github.com/PaaS-TA/rep.git
+	branch = 2.48.0-PaaS-TA-Monitoring
