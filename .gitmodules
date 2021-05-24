@@ -475,3 +475,4 @@
 [submodule "src/code.cloudfoundry.org/rep"]
 	path = src/code.cloudfoundry.org/rep
 	url = https://github.com/PaaS-TA/rep.git
+	branch = 2.48.0-PaaS-TA-Monitoring-1404b978e3
