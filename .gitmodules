@@ -147,8 +147,8 @@
 	branch = master
 [submodule "src/code.cloudfoundry.org/rep"]
 	path = src/code.cloudfoundry.org/rep
-	url = https://github.com/cloudfoundry/rep
-	branch = master
+	url = https://github.com/PaaS-TA/rep
+	branch = 2.48.0-PaaS-TA-Monitoring-1404b978e3
 [submodule "src/code.cloudfoundry.org/vizzini"]
 	path = src/code.cloudfoundry.org/vizzini
 	url = https://github.com/cloudfoundry/vizzini
