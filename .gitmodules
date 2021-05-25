@@ -472,7 +472,3 @@
 	path = src/code.cloudfoundry.org/rep
 	url = https://github.com/PaaS-TA/rep.git
 	branch = 2.48.0-PaaS-TA-Monitoring
-[submodule "executor"]
-	path = executor
-	url = https://github.com/PaaS-TA/executor.git
-	branch = 2.48.0-PaaS-TA-Monitoring
