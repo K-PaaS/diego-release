@@ -129,10 +129,6 @@
 	path = src/code.cloudfoundry.org/consuladapter
 	url = https://github.com/cloudfoundry/consuladapter
 	branch = master
-[submodule "src/code.cloudfoundry.org/executor"]
-	path = src/code.cloudfoundry.org/executor
-	url = https://github.com/cloudfoundry/executor
-	branch = master
 [submodule "src/code.cloudfoundry.org/healthcheck"]
 	path = src/code.cloudfoundry.org/healthcheck
 	url = https://github.com/cloudfoundry/healthcheck
