@@ -129,10 +129,6 @@
 	path = src/code.cloudfoundry.org/consuladapter
 	url = https://github.com/cloudfoundry/consuladapter
 	branch = master
-[submodule "src/code.cloudfoundry.org/executor"]
-	path = src/code.cloudfoundry.org/executor
-	url = https://github.com/cloudfoundry/executor
-	branch = master
 [submodule "src/code.cloudfoundry.org/healthcheck"]
 	path = src/code.cloudfoundry.org/healthcheck
 	url = https://github.com/cloudfoundry/healthcheck
@@ -144,10 +140,6 @@
 [submodule "src/code.cloudfoundry.org/locket"]
 	path = src/code.cloudfoundry.org/locket
 	url = https://github.com/cloudfoundry/locket
-	branch = master
-[submodule "src/code.cloudfoundry.org/rep"]
-	path = src/code.cloudfoundry.org/rep
-	url = https://github.com/cloudfoundry/rep
 	branch = master
 [submodule "src/code.cloudfoundry.org/vizzini"]
 	path = src/code.cloudfoundry.org/vizzini
