@@ -87,7 +87,7 @@ require (
 	github.com/opencontainers/image-spec v1.0.3-0.20211202193544-a5463b7f9c84
 	github.com/pborman/getopt v1.1.0
 	github.com/pkg/errors v0.9.1
-	github.com/pkg/sftp v1.13.0
+	github.com/pkg/sftp v1.13.5
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/spf13/cobra v1.3.0
 	github.com/square/certstrap v1.2.0
