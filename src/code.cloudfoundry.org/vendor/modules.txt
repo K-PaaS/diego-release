@@ -377,7 +377,7 @@ github.com/fatih/color
 # github.com/fortytw2/leaktest v1.3.0
 ## explicit
 github.com/fortytw2/leaktest
-# github.com/fsnotify/fsnotify v1.5.1
+# github.com/fsnotify/fsnotify v1.6.0
 ## explicit
 github.com/fsnotify/fsnotify
 # github.com/fsouza/go-dockerclient v1.7.3
@@ -826,7 +826,7 @@ golang.org/x/net/ipv4
 golang.org/x/net/ipv6
 golang.org/x/net/proxy
 golang.org/x/net/trace
-# golang.org/x/sys v0.0.0-20220906135438-9e1f76180b77
+# golang.org/x/sys v0.0.0-20220908164124-27713097b956
 ## explicit
 golang.org/x/sys/cpu
 golang.org/x/sys/execabs
