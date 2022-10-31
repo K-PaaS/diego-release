@@ -74,7 +74,7 @@ require (
 	github.com/jackc/pgx v3.6.2+incompatible
 	github.com/jinzhu/gorm v1.9.16
 	github.com/kr/pty v1.1.8
-	github.com/lib/pq v1.10.1
+	github.com/lib/pq v1.10.7
 	github.com/mitchellh/cli v1.1.2 // indirect
 	github.com/mitchellh/hashstructure v1.1.0
 	github.com/nats-io/nats-server/v2 v2.9.0

@@ -572,7 +572,7 @@ github.com/kr/fs
 # github.com/kr/pty v1.1.8
 ## explicit
 github.com/kr/pty
-# github.com/lib/pq v1.10.1
+# github.com/lib/pq v1.10.7
 ## explicit
 github.com/lib/pq
 github.com/lib/pq/hstore
